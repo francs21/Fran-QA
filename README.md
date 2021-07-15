@@ -28,7 +28,7 @@ ________________________________________________________________________________
 2.	Validar a ordenação de produtos através da opção de exibição “PRICE (low to high)”
 ----------------------------------------------------------------------------------------------
 
-Step 1: Clicar no ícone de filtro, localizado no canto superior esquerdo da página inicial.
+Step 1: Clicar no ícone de filtro, localizado no canto superior direito da página inicial.
 
 Expect Result: O sistema deverá expandir com as opções de ordenação para visualização de produtos.
 
@@ -57,14 +57,14 @@ Step 1: Clicar no ícone do carrinho
 Expect Result: O sistema deverá exibir a tela com título “YOUR CART” e com os produtos adicionados ao carrinho anteriormente.
  
 ___________________________________________________________________________________________________________________________________________________________
-5.	Validar funcionalidade do botão “REMOVE” (teste de falha)
+5.	Validar funcionalidade do botão “REMOVE” (teste exploratório, falha)
 -------------------------------------------------------------------------------------------------------
 Step 1: Clicar no botão “REMOVE” de um produto do carrinho.
 
 Expect Result: O produto deverá ser removido do carrinho, a contagem do ícone deverá diminuir de acordo com quantidade de produtos existentes no carrinho.
  
 ___________________________________________________________________________________________________________________________________________________________
-6.	Validar funcionalidade do botão “CONTINUE SHOPPING” (teste de falha)
+6.	Validar funcionalidade do botão “CONTINUE SHOPPING” (teste exploratório, falha)
 -------------------------------------------------------------------------------------------------------------
 Step 1: Clicar no botão “CONTINUE SHOPPING” localizado no canto inferior esquerdo da tela.
 
@@ -91,14 +91,14 @@ Step 4: Clicar no botão “BACK HOME”
 Expect Result: O Sistema irá direcionar para a tela inicial do e-commerce “PRODUCTS”, exibindo todos os produtos em ordem original e ícone do carrinho com a contagem zerada.
 
 ___________________________________________________________________________________________________________________________________________________________
-8.	Validar funcionalidade do botão “CANCEL” da tela “CHEKOUT: YOUR INFORMATION” (teste de falha)
+8.	Validar funcionalidade do botão “CANCEL” da tela “CHEKOUT: YOUR INFORMATION” (teste exploratório, falha)
 ----------------------------------------------------------------------------------------------------------------------------------------
 Step 1: Após inserir os dados solicitados na tela, clicar no botão “CANCEL” localizado no canto inferior esquerdo da tela.
  
 Expect Result: O sistema deverá retornar para a tela do carrinho “YOUR CART”
 
 ___________________________________________________________________________________________________________________________________________________________
-9.	Validar funcionalidade do botão “CANCEL” da tela “CHEKOUT: OVERVIEW” (teste de falha)
+9.	Validar funcionalidade do botão “CANCEL” da tela “CHEKOUT: OVERVIEW” (teste exploratório, falha)
 -------------------------------------------------------------------------------------------------------------------------------------------
 Step 1: Após inserir os dados solicitados na tela, clicar no botão “CANCEL” localizado no canto inferior esquerdo da tela.
  
